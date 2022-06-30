@@ -1,0 +1,14 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,time=20m
+1,What is the capital of India,Mumbai,Chennai,New Delhi,Kolkata,3,5,-1,n,
+2,4+4 =,4,7,9,8,4,4,-1,y,
+3,Capital of France,Paris,Patna,Amhara,London,1,8,-2,n,
+4,Capital of Telangana,Hyderabad,Patna,Bombay,Madras,1,4,-1,n,
+5,The working principle of a washing machine is,reverse osmosis,diffusion,centrifugation,dialysis,3,4,-1,n,
+6,Nuclear sizes are expressed in a unit named,Fermi,Angstrom,Newton,Tesla,1,4,-1,n,
+7,The speed of light will be minimum while passing through,water,vaccum,air,glass,3,4,-1,n,
+8,Which of the following is not a vector quantity?,speed,velocity,torque,displacement,1,4,-1,n,
+9,An air bubble in water will act like a,convex lens,convex mirror,concave lens,concave mirror,3,4,-1,n,
+10,Rain drops acquire spherical shape due to,viscosity,surface tension,friction,elasticity,2,4,-1,n,
+
+
+

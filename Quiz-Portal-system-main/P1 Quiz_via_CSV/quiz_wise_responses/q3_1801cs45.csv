@@ -1,0 +1,13 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,marked_choice,Total,Legend
+1,Octopus belongs to the class,Mollusca,Pelecypoda,Cephalopoda,None,3,4,-1,n,3,2,Correct Choices
+2,Most molluscs are of,Marine,Terrestrial,Freshwater,All,1,4,-1,n,2,2,Wrong Choices
+3,Which of the following does not belong to phylum Mollusca?,Sea Hare,Sea mica,Sea Lemon,Sea feather,4,4,-1,n,1,2,Wrong Choices
+4,Which of the following is the largest invertebrate?,Architeuthis,Sepia,Loligo,Octopus,1,4,-1,n,3,2,Wrong Choices
+5,What is the common name of a devilfish?,loligo,Sepia,Teredo,Octopus,4,4,-1,n,4,2,Correct Choices
+6,Which of the following is called the Pearl Mother Layer,Nacre,Mantle,Periostracum,prismatic layer,1,4,-1,n,0,2,
+7,Which one of the following is known as the building blocks of life,Cell,Tissue,Organ,Soul,2,4,-1,n,0,2,
+8,Which among the following is the causal factor of athlete foot disease?,Housefly,fungi,protozoa,bacteria,2,4,-1,n,2,2,Correct Choices
+9,Which among the following is the source of immediate energy for cellular activity,FDA,RNA,NAD,ATP,4,4,-1,n,0,2,
+10,Which among the following gases is absorbed by the plant during the process of photosynthesis,O2,H2,N2,CO2,4,4,-1,n,0,2,
+,,,,,,,,,,,9,Marks Obtained
+,,,,,,,,,,,40,Total Quiz Marks
